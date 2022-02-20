@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 🖖
+
+* 🚀 I'm proud of my two [one](https://github.com/chrschorn/oneclick-send-to-trello)-[click](https://github.com/chrschorn/one-click-ticktick) Chrome extension that have around 1000 weekly active users (and counting), improving their productivity in small but meaningful ways!
+* 🐱‍👤 Large C++ and Python projects I'm working on are all company-internal, so unfortunately not public
+* 🏠 For more personal information and cool milky way photos, visit my [homepage](https://schorn.me/)!
 
 <!--
 **chrschorn/chrschorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
