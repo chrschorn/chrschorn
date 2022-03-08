@@ -1,6 +1,6 @@
 ### Hi there 🖖
 
-* 🚀 I'm proud of my two "[One](https://github.com/chrschorn/oneclick-send-to-trello)-[Click](https://github.com/chrschorn/one-click-ticktick)" Chrome extension that have around 1000 weekly active users (and counting), improving their productivity in small but meaningful ways!
+* 🚀 I'm proud of my two "[One](https://github.com/chrschorn/oneclick-send-to-trello)-[Click](https://github.com/chrschorn/one-click-ticktick)" Chrome extensions that have around 1000 weekly active users (and counting), improving their productivity in small but meaningful ways!
 * 🐱‍👤 Large C++ and Python projects I'm working on are all company-internal, so unfortunately not public
 * 🏠 For more personal information and cool milky way photos, visit my [homepage](https://schorn.me/)!
 
